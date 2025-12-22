@@ -197,3 +197,4 @@ const response = await fetch('/api/predict', {
     </div>
   );
 }
+
